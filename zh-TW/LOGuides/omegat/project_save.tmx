@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Getting Started with Macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160106T160104Z">
+        <seg>巨集入門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help system</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063249Z">
