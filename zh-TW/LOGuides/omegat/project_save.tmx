@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter is based on Chapter 13 of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160106T160713Z">
+        <seg>本章節是基於 &lt;f0&gt;OpenOffice.org 3.3 入門指引&lt;/f0&gt;的第13章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright © 2010–2014 by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T141545Z">
