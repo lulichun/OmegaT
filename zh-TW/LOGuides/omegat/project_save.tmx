@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing macros without the recorder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T190714Z">
+        <seg>不透過recorder編寫巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140509Z">
