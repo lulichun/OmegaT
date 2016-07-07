@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a macro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201144Z">
+        <seg>新增巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additionally, there are over 70 &lt;f0&gt;spelling&lt;/f0&gt;, &lt;f1&gt;hyphenation&lt;/f1&gt;, and &lt;f2&gt;thesaurus&lt;/f2&gt; dictionaries available for languages, and dialects that do not have a localized program interface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140739Z">
@@ -1086,10 +1094,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recording a macro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201214Z">
+        <seg>錄製巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131225Z">
         <seg>滑鼠右鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running a macro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201227Z">
+        <seg>執行巨集</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viewing and editing macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201253Z">
+        <seg>檢視及編輯巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What are all these things called?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063448Z">
@@ -1666,6 +1698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130814Z">
         <seg>你應該可以從你 Linux 作業系統提供的軟體庫中，另行下載銀河圖示集並安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your first macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201158Z">
+        <seg>你第一個巨集</seg>
       </tuv>
     </tu>
     <tu>
