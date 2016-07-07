@@ -342,6 +342,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T191805Z">
+        <seg>Extensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions and add-ons</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T191812Z">
+        <seg>Extensions and add-ons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FAQs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124734Z">
