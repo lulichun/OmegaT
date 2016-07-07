@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding more information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T190632Z">
+        <seg>可以找到更多的資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &gt; What's This?&lt;/f0&gt; and hold the pointer over the icon.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T123940Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T141511Z">
         <seg>LibreOffice 簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T190535Z">
+        <seg>介紹</seg>
       </tuv>
     </tu>
     <tu>
