@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>Alternatively, you can pay for support services.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T125009Z">
-        <seg>另外，你也可以付錢取得支援服務。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053843Z">
+        <seg>另外，您也可以付錢取得支援服務。</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +632,8 @@
       <tuv lang="EN">
         <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T123719Z">
-        <seg>一旦啟用了「提示」，當你將滑鼠指標移動到任何圖示上後，就能看到一個小方塊 (稱為「提示框」) 內有該圖示功能的簡要解釋。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053827Z">
+        <seg>一旦啟用了「提示」，當您將滑鼠指標移動到任何圖示上後，就能看到一個小方塊 (稱為「提示框」) 內有該圖示功能的簡要解釋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN">
         <seg>If you wish, you can change your LibreOffice software package to display Galaxy icons as follows:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130448Z">
-        <seg>若你想要，你也可以將你的 LibreOffice 軟體改以銀河圖示集顯示：</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053948Z">
+        <seg>若您想要，您也可以將您的 LibreOffice 軟體改以銀河圖示集顯示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,8 +720,8 @@
       <tuv lang="EN">
         <seg>In addition, you can choose whether to activate Tips, Extended tips, and the Help Agent (using &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T123641Z">
-        <seg>此外，你可以選擇是否要顯示提示、延伸提示、說明助理等額外功能 (使用 &lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 一般&lt;/f2&gt;)。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053816Z">
+        <seg>此外，您可以選擇是否要顯示提示、延伸提示、說明助理等額外功能 (使用 &lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 一般&lt;/f2&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,8 +1312,8 @@
       <tuv lang="EN">
         <seg>Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T125038Z">
-        <seg>你可以跟廠商購買服務合約，或諮詢對 LibreOffice 有專攻的公司。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053852Z">
+        <seg>您可以跟廠商購買服務合約，或諮詢對 LibreOffice 有專攻的公司。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="EN">
         <seg>The LibreOffice website in your language.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124908Z">
-        <seg>以你母語建立的 LibreOffice 網站</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053836Z">
+        <seg>以您母語建立的 LibreOffice 網站</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,8 +1544,8 @@
       <tuv lang="EN">
         <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T125215Z">
-        <seg>因此有些插圖可能看起來與你電腦上所顯示的不完全相同。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053932Z">
+        <seg>因此有些插圖可能看起來與您電腦上所顯示的不完全相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1576,8 +1576,8 @@
       <tuv lang="EN">
         <seg>This book, the other LibreOffice user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063900Z">
-        <seg>包括本書、其他 LibreOffice 使用者指引、內建的說明幫助系統、使用者支援系統等，皆假定你熟悉電腦基本操作，並瞭解運用開啟程式、開啟檔案、儲存檔案等基本功能。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053727Z">
+        <seg>包括本書、其他 LibreOffice 使用者指引、內建的說明幫助系統、使用者支援系統等，皆假定您熟悉電腦基本操作，並瞭解運用開啟程式、開啟檔案、儲存檔案等基本功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,8 +1624,8 @@
       <tuv lang="EN">
         <seg>This is your first line of support for using LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T064052Z">
-        <seg>這是你使用 LibreOffice 時想尋求支援的第一道防線。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053806Z">
+        <seg>這是您使用 LibreOffice 時想尋求的第一道支援</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,8 +1728,8 @@
       <tuv lang="EN">
         <seg>What you see may be different</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063346Z">
-        <seg>你看到的畫面可能會有所差異</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053703Z">
+        <seg>您看到的畫面可能會有所差異</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,8 +1864,8 @@
       <tuv lang="EN">
         <seg>You can either use dialogs from your computer system (default) or dialogs provided by LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T125303Z">
-        <seg>你可以使用你電腦系統上的對話方框 (預設)，或是 LibreOffice 提供的對話方塊。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053941Z">
+        <seg>您可以使用您電腦系統上的對話方框 (預設)，或是 LibreOffice 提供的對話方塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,8 +1912,8 @@
       <tuv lang="EN">
         <seg>You may be new to office software, or you may be familiar with another office suite.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063624Z">
-        <seg>你或許是第一次接觸辦公用軟體，又或者是已經熟悉其他套辦公套裝軟體。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053715Z">
+        <seg>您或許是第一次接觸辦公用軟體，又或者是已經熟悉其他套辦公套裝軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1936,8 +1936,8 @@
       <tuv lang="EN">
         <seg>You should be able to download the Galaxy icon set from the software repository for your Linux operating system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130814Z">
-        <seg>你應該可以從你 Linux 作業系統提供的軟體庫中，另行下載銀河圖示集並安裝。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054001Z">
+        <seg>您應該可以從您 Linux 作業系統提供的軟體庫中，另行下載銀河圖示集並安裝。</seg>
       </tuv>
     </tu>
     <tu>
