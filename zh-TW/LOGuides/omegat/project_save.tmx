@@ -342,6 +342,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a macro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052300Z">
+        <seg>建立一個巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining subroutines with SUB</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052411Z">
+        <seg>定義子常式 SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining variables using Dim</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052223Z">
+        <seg>定義變數 Dim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124547Z">
@@ -370,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131012Z">
         <seg>效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explaining macro code</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052422Z">
+        <seg>解釋巨集程式碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macro organization</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052114Z">
+        <seg>Macro organization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macro recorder failures</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T031937Z">
@@ -1142,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052210Z">
+        <seg>備註 REM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Radio buttons (only one can be selected at a time).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T134925Z">
@@ -1178,6 +1226,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201227Z">
         <seg>執行巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running a macro quickly</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052453Z">
+        <seg>快速執行巨集</seg>
       </tuv>
     </tu>
     <tu>
