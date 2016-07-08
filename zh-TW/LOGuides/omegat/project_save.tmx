@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining &lt;i0/&gt;variables using &lt;is1/&gt;&lt;is2/&gt;Dim</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053515Z">
+        <seg>定義&lt;i0/&gt;變數使用&lt;is1.&gt;&lt;is2/&gt; Dim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining subroutines with SUB</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052411Z">
@@ -1886,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can write information on a piece of paper so that you can look at it later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053635Z">
+        <seg>您可以在一張紙上寫下資訊之後可以看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not have to request special permission.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140517Z">
@@ -1986,6 +2002,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131653Z">
         <seg>使用者介面，部份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>variables in macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053433Z">
+        <seg>在巨集中的變數</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
