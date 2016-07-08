@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A more complicated example of a macro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052649Z">
+        <seg>更多複雜的巨集例子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access setup options</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131211Z">
@@ -374,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading macros to import</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052747Z">
+        <seg>匯入下載的巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw (vector graphics)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063728Z">
@@ -574,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to run a macro</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052700Z">
+        <seg>如何執行巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I am writing a software application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140030Z">
@@ -626,6 +650,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063402Z">
         <seg>插圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052806Z">
+        <seg>匯入巨集</seg>
       </tuv>
     </tu>
     <tu>
@@ -1682,6 +1714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135137Z">
         <seg>一旦你用完後關閉了對話方塊 (通常是點按&lt;f0&gt;「確定」&lt;/f0&gt;，或是其他儲存變更並關閉對話方塊的按鈕)，那麼你就會返回文件繼續你的編輯作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where are macros stored?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052824Z">
+        <seg>巨集儲存的地方?</seg>
       </tuv>
     </tu>
     <tu>
