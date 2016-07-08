@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032114Z">
+        <seg>Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc (spreadsheet)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T141936Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T143012Z">
         <seg>Calc 擁有高階試算表程式會有的進階分析、圖表、決策判斷等功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032113Z">
+        <seg>Calc 巨集</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140344Z">
         <seg>即使你不想使用 Java，你還是可以使用幾乎所有的 LibreOffice 功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you record Calc macros, and the recorder can correctly generate a macro, there is an add-in available which &lt;i0/&gt;converts &lt;i1/&gt;Calc macros when they are recorded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032050Z">
+        <seg>If you record Calc macros, and the recorder can correctly generate a macro, there is an add-in available which &lt;i0/&gt;converts &lt;i1/&gt;Calc macros when they are recorded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,8 +888,8 @@
       <tuv lang="EN">
         <seg>Macro recorder failures</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T025515Z">
-        <seg>巨集錄製器 failures</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T031937Z">
+        <seg>巨集錄製器失敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The examples covered in this chapter are created using the macro recorder and the dispatcher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032025Z">
+        <seg>The examples covered in this chapter are created using the macro recorder and the dispatcher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icons in this guide have been taken from a LibreOffice installation that has been set to display the Galaxy set of icons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130430Z">
@@ -1326,10 +1358,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro recorder records the generated dispatches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T031955Z">
+        <seg>The macro recorder records the generated dispatches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T025810Z">
-        <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T031854Z">
+        <seg>巨集編輯器的運作是記錄發送的命令 (參閱 “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” 頁面 &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1818,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135519Z">
         <seg>LibreOffice 的軟體授權方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032122Z">
+        <seg>巨集</seg>
       </tuv>
     </tu>
     <tu>
