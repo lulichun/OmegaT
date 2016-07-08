@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T025810Z">
+        <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most notable one is the HSQLDB relational database engine.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140313Z">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T132020Z">
         <seg>LibreOffice 中&lt;i0/&gt;&lt;f1&gt;使用者介面&lt;/f1&gt; (程式中你所實際看見且能操控的部份，與之相反的是幕後實際讓程式運作的程式代碼) 採用的絕大部分詞語與其他大多數的程式相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The usual methods for a beginner are to use macros that someone else has written or use the built-in macro recorder, which records keystrokes and saves them for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T025802Z">
+        <seg>The usual methods for a beginner are to use macros that someone else has written or 使用內建巨集錄製器, which records keystrokes and saves them for use.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1656,8 @@
       <tuv lang="EN">
         <seg>Writing macros without the recorder</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T193156Z">
-        <seg>不透過錄製器編寫巨集</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T025654Z">
+        <seg>不透過巨集錄製器編寫巨集</seg>
       </tuv>
     </tu>
     <tu>
