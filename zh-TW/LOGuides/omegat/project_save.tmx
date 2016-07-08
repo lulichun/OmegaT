@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dispatch framework</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053142Z">
+        <seg>Dispatch framework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124547Z">
@@ -1438,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first step in learning macro programming is to find and &lt;i0/&gt;use existing macros.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053354Z">
+        <seg>學習巨集程式的第一步是找到及 &lt;i0/&gt;使用現有的巨集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icons in this guide have been taken from a LibreOffice installation that has been set to display the Galaxy set of icons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130430Z">
@@ -1910,10 +1926,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your first &lt;i0/&gt;macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053211Z">
+        <seg>你第一個&lt;i0/&gt;巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your first macros</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201158Z">
         <seg>你第一個巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>adding macros from other sources</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053236Z">
+        <seg>從其他來源增加巨集</seg>
       </tuv>
     </tu>
     <tu>
