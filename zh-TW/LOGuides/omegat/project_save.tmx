@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>Base provides tools for day-to-day database work within a simple interface.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T143308Z">
-        <seg>Base 讓你可以用簡單的介面處理日常的資料庫作業。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054336Z">
+        <seg>Base 讓您可以用簡單的介面處理日常的資料庫作業。</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="EN">
         <seg>It also connects to your email client.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T142935Z">
-        <seg>它也能連接到你的電子郵件客戶端。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054312Z">
+        <seg>它也能連接到您的電子郵件客戶端。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,8 +1864,8 @@
       <tuv lang="EN">
         <seg>You can also open and work with Microsoft Excel workbooks and save them in Excel format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T143122Z">
-        <seg>你也可以開啟並處理 Microsoft Excel 工作簿，再以 Excel 格式儲存。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054319Z">
+        <seg>您也可以開啟並處理 Microsoft Excel 工作簿，再以 Excel 格式儲存。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,16 +1952,16 @@
       <tuv lang="EN">
         <seg>Your first &lt;i0/&gt;macros</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053211Z">
-        <seg>你第一個&lt;i0/&gt;巨集</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054347Z">
+        <seg>您第一個&lt;i0/&gt;巨集</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Your first macros</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201158Z">
-        <seg>你第一個巨集</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054342Z">
+        <seg>您第一個巨集</seg>
       </tuv>
     </tu>
     <tu>
