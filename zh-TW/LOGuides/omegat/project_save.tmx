@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final code manipulates LibreOffice objects rather than generating dispatches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032123Z">
+        <seg>The final code manipulates LibreOffice objects rather than generating dispatches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icons in this guide have been taken from a LibreOffice installation that has been set to display the Galaxy set of icons.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130430Z">
