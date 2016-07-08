@@ -952,8 +952,8 @@
       <tuv lang="EN">
         <seg>Macro organization</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052114Z">
-        <seg>Macro organization</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053038Z">
+        <seg>巨集組織架構</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T141848Z">
         <seg>開啟「樣式和格式」視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053052Z">
+        <seg>其他選項</seg>
       </tuv>
     </tu>
     <tu>
