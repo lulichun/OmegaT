@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054236Z">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T133123Z">
@@ -192,8 +200,8 @@
       <tuv lang="EN">
         <seg>As many as you like.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135713Z">
-        <seg>隨你高興，幾臺皆可。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054133Z">
+        <seg>隨您高興，幾臺皆可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +584,8 @@
       <tuv lang="EN">
         <seg>How can you make it for free?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140004Z">
-        <seg>你們為什麼可以免費提供 LibreOffice？</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054154Z">
+        <seg>您們為什麼可以免費提供 LibreOffice？</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +648,8 @@
       <tuv lang="EN">
         <seg>If you do not want to use Java, you can still use nearly all of the features of LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140344Z">
-        <seg>即使你不想使用 Java，你還是可以使用幾乎所有的 LibreOffice 功能。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054203Z">
+        <seg>即使您不想使用 Java，您還是可以使用幾乎所有的 LibreOffice 功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,8 +720,8 @@
       <tuv lang="EN">
         <seg>In addition, we request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140527Z">
-        <seg>此外，考慮到我們製作這本書的苦工，我們希望你能分一些書本的銷售所得回去貢獻本專案。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054256Z">
+        <seg>此外，考慮到我們製作這本書的苦工，我們希望您能分一些書本的銷售所得回去貢獻本專案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,16 +736,16 @@
       <tuv lang="EN">
         <seg>In most cases we do not use the technical terms in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T134849Z">
-        <seg>本書中絕大部分情況下都不會使用技術名稱，但如果能知道技術名稱對你會很有幫助，因為「說明」系統與其他資訊來源都使用技術名稱。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054040Z">
+        <seg>本書中絕大部分情況下都不會使用技術名稱，但如果能知道技術名稱對您會很有幫助，因為「說明」系統與其他資訊來源都使用技術名稱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135105Z">
-        <seg>大多數的情況下，你只有在對話方塊開啟的狀態下才能與該對話方塊 (不是與文件本身) 互動。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054047Z">
+        <seg>大多數的情況下，您只有在對話方塊開啟的狀態下才能與該對話方塊 (不是與文件本身) 互動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -840,8 +848,8 @@
       <tuv lang="EN">
         <seg>It provides controls for you to use to specify how to carry out an action.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T134738Z">
-        <seg>它提供控制項給你，讓你指定該如何執行某項動作。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054029Z">
+        <seg>它提供控制項給您，讓您指定該如何執行某項動作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +864,8 @@
       <tuv lang="EN">
         <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T134724Z">
-        <seg>它的用途是通知你某件事，或是請求你輸入資訊，或是兩者兼具。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054021Z">
+        <seg>它的用途是通知您某件事，或是請求您輸入資訊，或是兩者兼具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,8 +912,8 @@
       <tuv lang="EN">
         <seg>LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135826Z">
-        <seg>LibreOffice 已經翻譯 (本地化處理) 成超過 40 種語言，因此你所說的語言很可能已經支援了</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054145Z">
+        <seg>LibreOffice 已經翻譯 (本地化處理) 成超過 40 種語言，因此您所說的語言很可能已經支援了</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,8 +1344,8 @@
       <tuv lang="EN">
         <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135216Z">
-        <seg>有些對話方塊可以在你工作時繼續維持開啟狀態，這樣你就能在對話方塊與文件之間前後切換。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054110Z">
+        <seg>有些對話方塊可以在您工作時繼續維持開啟狀態，這樣您就能在對話方塊與文件之間前後切換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1528,8 +1536,8 @@
       <tuv lang="EN">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;&lt;f1&gt;user interface&lt;/f1&gt; (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T132020Z">
-        <seg>LibreOffice 中&lt;i0/&gt;&lt;f1&gt;使用者介面&lt;/f1&gt; (程式中你所實際看見且能操控的部份，與之相反的是幕後實際讓程式運作的程式代碼) 採用的絕大部分詞語與其他大多數的程式相同。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054009Z">
+        <seg>LibreOffice 中&lt;i0/&gt;&lt;f1&gt;使用者介面&lt;/f1&gt; (程式中您所實際看見且能操控的部份，與之相反的是幕後實際讓程式運作的程式代碼) 採用的絕大部分詞語與其他大多數的程式相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1744,8 +1752,8 @@
       <tuv lang="EN">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135137Z">
-        <seg>一旦你用完後關閉了對話方塊 (通常是點按&lt;f0&gt;「確定」&lt;/f0&gt;，或是其他儲存變更並關閉對話方塊的按鈕)，那麼你就會返回文件繼續你的編輯作業。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054244Z">
+        <seg>一旦您用完後關閉了對話方塊 (通常是點按&lt;f0&gt;「確定」&lt;/f0&gt;，或是其他儲存變更並關閉對話方塊的按鈕)，那麼您就會返回文件繼續您的編輯作業。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,8 +1848,8 @@
       <tuv lang="EN">
         <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140509Z">
-        <seg>可以，只要你遵循本書開頭著作權聲明中的那些要求即可。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054250Z">
+        <seg>可以，只要您遵循本書開頭著作權聲明中的那些要求即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,16 +1888,16 @@
       <tuv lang="EN">
         <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140416Z">
-        <seg>你可以透過許多方式來幫助 LibreOffice 的開發與使用者支援，無需特別成為一位程式設計師。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054218Z">
+        <seg>您可以透過許多方式來幫助 LibreOffice 的開發與使用者支援，無需特別成為一位程式設計師。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You can insert graphics and objects from other components into Writer documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T142853Z">
-        <seg>在 Writer 文件中你可以插入圖形，也可以從其他組件入物件。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054304Z">
+        <seg>在 Writer 文件中您可以插入圖形，也可以從其他組件入物件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1904,8 +1912,8 @@
       <tuv lang="EN">
         <seg>You do not have to request special permission.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140517Z">
-        <seg>你並不需要特別申請許可。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054226Z">
+        <seg>您並不需要特別申請許可。</seg>
       </tuv>
     </tu>
     <tu>
