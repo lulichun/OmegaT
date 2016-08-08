@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of a simple macro is one that “types” your address.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T063239Z">
+        <seg>"types" 顯示你的位址就是一個簡單的巨集的例子 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135226Z">
