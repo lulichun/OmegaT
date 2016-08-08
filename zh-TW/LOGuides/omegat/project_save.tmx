@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros are very useful when you have to repeat the same task in the same way over and over again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T063644Z">
+        <seg>當您一直重覆某些任務/工作時巨集十分有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mailing lists</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124818Z">
@@ -1418,6 +1426,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124011Z">
         <seg>LibreOffice 社群不只開發軟體而已，更提供免費、志工性質的支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice macro language is very flexible, allowing automation of both simple and complex tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T063625Z">
+        <seg>LibreOffice 巨集語言十分彈性，允許簡單及複雜任務的自動化。</seg>
       </tuv>
     </tu>
     <tu>
