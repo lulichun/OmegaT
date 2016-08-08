@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T062925Z">
+        <seg>巨集是可以儲存多個命令或多個按鍵順序供之後使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more complicated example of a macro</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052649Z">
