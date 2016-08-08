@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can learn Basic and write macros, there is a steep learning curve to writing macros from scratch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T070454Z">
+        <seg>雖然你可以學習basci和寫巨集，但是從頭寫巨集是一件陡峭的學習曲線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of a simple macro is one that “types” your address.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T063239Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140235Z">
         <seg>LibreOffice 並不是用 Java 語言撰寫的；實際上它是以 C++ 程式語言寫成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice macros are usually written in a language called &lt;i0/&gt;LibreOffice Basic, sometimes abbreviated to &lt;is1/&gt;Basic&lt;ie2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20160808T070316Z">
+        <seg>LibreOffice 巨集通常用稱為&lt;i0/&gt;LibreOffice Basic寫成的，有時也可簡稱為 &lt;is1/&gt;Basic&lt;ie2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
