@@ -14,10 +14,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160721Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Choose Tools &gt; Customize&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132349Z">
-        <seg>&lt;f0&gt;選擇工具 &gt; 客製&lt;/f0&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160636Z">
+        <seg>&lt;f0&gt;選擇工具 &gt; 自訂&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,24 +472,24 @@
       <tuv lang="EN">
         <seg>Customizations to menus and toolbars can be saved in a template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132028Z">
-        <seg>選單及工具列的客製化可以存成範例檔。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160819Z">
+        <seg>選單及工具列的自訂可以存成範例檔。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Customizing LibreOffice</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130043Z">
-        <seg>客製化 LibreOffice</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160709Z">
+        <seg>自訂化 LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Customizing menu content</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130336Z">
-        <seg>客製化選單內容</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160720Z">
+        <seg>自訂選單內容</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +776,8 @@
       <tuv lang="EN">
         <seg>However, you cannot customize context (right-click) menus.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131644Z">
-        <seg>然而，你不能客製化內容(按右鍵)選單。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160807Z">
+        <seg>然而，你不能自訂內容(按右鍵)選單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Customize&lt;/f0&gt; dialog (&lt;f1&gt;&lt;t2&gt;Figure 1&lt;/t2&gt;&lt;/f1&gt;), choose the &lt;f3&gt;Menus&lt;/f3&gt; page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160702Z">
+        <seg>On the &lt;f0&gt;Customize&lt;/f0&gt; dialog (&lt;f1&gt;&lt;t2&gt;Figure 1&lt;/t2&gt;&lt;/f1&gt;), choose the &lt;f3&gt;Menus&lt;/f3&gt; page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open a context menu</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131402Z">
@@ -1376,8 +1392,8 @@
       <tuv lang="EN">
         <seg>Other customizations are made easy by extensions that you can install from the LibreOffice website or from other providers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131911Z">
-        <seg>其他客製化項目可以透過由 LibreOffice 或其他提供者的網站安裝擴充套件簡單的達成。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160812Z">
+        <seg>其他自訂項目可以透過由 LibreOffice 或其他提供者的網站安裝擴充套件簡單的達成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,8 +1856,8 @@
       <tuv lang="EN">
         <seg>This chapter describes some common customizations that you may wish to do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131343Z">
-        <seg>本章描述你可以做的一般客製化</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160754Z">
+        <seg>本章描述你可以做的一般自訂</seg>
       </tuv>
     </tu>
     <tu>
@@ -1904,8 +1920,8 @@
       <tuv lang="EN">
         <seg>To &lt;i0/&gt;customize menus&lt;i1/&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132259Z">
-        <seg>To &lt;i0/&gt;客製的選單&lt;i1/&gt;:</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160629Z">
+        <seg>To &lt;i0/&gt;自訂的選單&lt;i1/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2160,8 @@
       <tuv lang="EN">
         <seg>You can customize menus, toolbars, and keyboard shortcuts in LibreOffice, add new menus and toolbars, and assign macros to events.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131458Z">
-        <seg>你可以在 LibreOffice 客製化選單、工具列及熱鍵，新增新的選單、工具列及指定巨集到事件。</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160801Z">
+        <seg>你可以在 LibreOffice 自訂選單、工具列及熱鍵，新增新的選單、工具列及指定巨集到事件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,8 +2280,8 @@
       <tuv lang="EN">
         <seg>customizing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132239Z">
-        <seg>客製化</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160612Z">
+        <seg>自訂</seg>
       </tuv>
     </tu>
     <tu>
