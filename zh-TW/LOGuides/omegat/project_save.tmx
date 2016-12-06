@@ -246,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assigning macros to events</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131035Z">
+        <seg>指定巨集到事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assigning shortcut keys</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130811Z">
+        <seg>指定熱鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base (database</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150301T063735Z">
@@ -530,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130742Z">
         <seg>範例：新增傳真圖示到工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: Assigning styles to shortcut keys</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130849Z">
+        <seg>範例：指定樣式的熱鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading a saved keyboard configuration</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130951Z">
+        <seg>載入已儲存的鍵盤設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131008Z">
@@ -1414,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resetting the shortcut keys</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131007Z">
+        <seg>重新設定熱鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131225Z">
@@ -1434,6 +1474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T052453Z">
         <seg>快速執行巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving changes to a file</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130927Z">
+        <seg>將改變的部分儲存到檔案</seg>
       </tuv>
     </tu>
     <tu>
