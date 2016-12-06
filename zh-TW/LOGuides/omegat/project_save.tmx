@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose Tools &gt; Customize&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132349Z">
+        <seg>&lt;f0&gt;選擇工具 &gt; 客製&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Control+click&lt;/f0&gt; and/or &lt;f1&gt;right-click&lt;/f1&gt; depending on computer setup</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131314Z">
@@ -1886,6 +1894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;customize menus&lt;i1/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132259Z">
+        <seg>To &lt;i0/&gt;客製的選單&lt;i1/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change to using LibreOffice dialogs:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T125320Z">
@@ -2238,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>customizing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132239Z">
+        <seg>客製化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>licensing of LibreOffice</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135519Z">
@@ -2250,6 +2274,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T032122Z">
         <seg>巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menus</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132230Z">
+        <seg>選單</seg>
       </tuv>
     </tu>
     <tu>
