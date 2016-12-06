@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do so, first save them in a document and then save the document as a template as described in Chapter 3, Using Styles and Templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132157Z">
+        <seg>要如此做，首先儲存成文件中，再存成第三章描述的範列，再使用樣式及範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start, check out this webpage: &lt;a0&gt;http://www.documentfoundation.org/contribution/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140431Z">
