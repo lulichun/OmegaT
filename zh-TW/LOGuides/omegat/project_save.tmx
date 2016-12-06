@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize menus, toolbars, and keyboard shortcuts in LibreOffice, add new menus and toolbars, and assign macros to events.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131458Z">
+        <seg>你可以在 LibreOffice 客製化選單、工具列及熱鍵，新增新的選單、工具列及指定巨集到事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can either use dialogs from your computer system (default) or dialogs provided by LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053941Z">
