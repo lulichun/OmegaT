@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you cannot customize context (right-click) menus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131644Z">
+        <seg>然而，你不能客製化內容(按右鍵)選單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I am writing a software application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140030Z">
