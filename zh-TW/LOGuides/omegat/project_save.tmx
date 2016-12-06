@@ -390,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130355Z">
+        <seg>建立一個新選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing LibreOffice</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130043Z">
         <seg>客製化 LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing menu content</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130336Z">
+        <seg>客製化選單內容</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,6 +1114,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140039Z">
         <seg>那我可以在我的程式中使用 LibreOffice 的程式代碼嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying existing menus</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130414Z">
+        <seg>修改目前的選單</seg>
       </tuv>
     </tu>
     <tu>
