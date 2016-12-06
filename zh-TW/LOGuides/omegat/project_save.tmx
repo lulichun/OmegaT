@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a command to a menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130456Z">
+        <seg>新增指令到選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding a command to a toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130618Z">
+        <seg>新增指令到工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a macro</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T201144Z">
@@ -342,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing icons for toolbar commands</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130656Z">
+        <seg>選擇工具列指令的圖示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your settings and close the dialog.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T130345Z">
@@ -398,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130600Z">
+        <seg>建立一個新工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing LibreOffice</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130043Z">
@@ -410,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130336Z">
         <seg>客製化選單內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing toolbars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130533Z">
+        <seg>容製化工具列</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T131012Z">
         <seg>效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: Adding a Fax icon to a toolbar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130742Z">
+        <seg>範例：新增傳真圖示到工具列</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1170,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130414Z">
         <seg>修改目前的選單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying existing toolbars</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130547Z">
+        <seg>修改目前工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying menu entries</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130516Z">
+        <seg>修改選單項目</seg>
       </tuv>
     </tu>
     <tu>
