@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130043Z">
+        <seg>客製化 LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining &lt;i0/&gt;variables using &lt;is1/&gt;&lt;is2/&gt;Dim</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053515Z">
