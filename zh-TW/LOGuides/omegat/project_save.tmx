@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding functionality with extensions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131230Z">
+        <seg>透過擴充套件新增功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additionally, there are over 70 &lt;f0&gt;spelling&lt;/f0&gt;, &lt;f1&gt;hyphenation&lt;/f1&gt;, and &lt;f2&gt;thesaurus&lt;/f2&gt; dictionaries available for languages, and dialects that do not have a localized program interface.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T140739Z">
@@ -874,6 +882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T124931Z">
         <seg>可用的無障礙輔助選項相關資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing extensions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131128Z">
+        <seg>安裝擴充套件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T053727Z">
         <seg>包括本書、其他 LibreOffice 使用者指引、內建的說明幫助系統、使用者支援系統等，皆假定您熟悉電腦基本操作，並瞭解運用開啟程式、開啟檔案、儲存檔案等基本功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter describes some common customizations that you may wish to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131343Z">
+        <seg>本章描述你可以做的一般客製化</seg>
       </tuv>
     </tu>
     <tu>
