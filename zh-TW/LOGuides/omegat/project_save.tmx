@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizations to menus and toolbars can be saved in a template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132028Z">
+        <seg>選單及工具列的客製化可以存成範例檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing LibreOffice</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130043Z">
@@ -552,16 +560,16 @@
       <tuv lang="EN">
         <seg>Example: Adding a Fax icon to a toolbar</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130742Z">
-        <seg>範例：新增傳真圖示到工具列</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131949Z">
+        <seg>例子：新增傳真圖示到工具列</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Example: Assigning styles to shortcut keys</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T130849Z">
-        <seg>範例：指定樣式的熱鍵</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131934Z">
+        <seg>例子：指定樣式的熱鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1354,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T141848Z">
         <seg>開啟「樣式和格式」視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other customizations are made easy by extensions that you can install from the LibreOffice website or from other providers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T131911Z">
+        <seg>其他客製化項目可以透過由 LibreOffice 或其他提供者的網站安裝擴充套件簡單的達成。</seg>
       </tuv>
     </tu>
     <tu>
