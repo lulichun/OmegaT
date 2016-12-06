@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>Customizing LibreOffice</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160709Z">
-        <seg>自訂化 LibreOffice</seg>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160905Z">
+        <seg>自訂 LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160837Z">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T135049Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160707T190632Z">
         <seg>可以找到更多的資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For &lt;t3/&gt;example, in addition to &lt;f4&gt;File&lt;/f4&gt;, &lt;f5&gt;Edit&lt;/f5&gt;, &lt;f6&gt;View&lt;/f6&gt;, and so on, there is &lt;f7&gt;File &lt;/f7&gt;|&lt;f8&gt; Send&lt;/f8&gt; and &lt;f9&gt;Edit &lt;/f9&gt;| &lt;f10&gt;Changes&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160838Z">
+        <seg>For &lt;t3/&gt;example, in addition to &lt;f4&gt;File&lt;/f4&gt;, &lt;f5&gt;Edit&lt;/f5&gt;, &lt;f6&gt;View&lt;/f6&gt;, and so on, there is &lt;f7&gt;File &lt;/f7&gt;|&lt;f8&gt; Send&lt;/f8&gt; and &lt;f9&gt;Edit &lt;/f9&gt;| &lt;f10&gt;Changes&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +930,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054047Z">
         <seg>大多數的情況下，您只有在對話方塊開啟的狀態下才能與該對話方塊 (不是與文件本身) 互動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed menu for the application (for example, LibreOffice Writer) or for a selected document (for example, SampleDocument.odt).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160837Z">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed menu for the application (for example, LibreOffice Writer) or for a selected document (for example, SampleDocument.odt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the section &lt;f0&gt;LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] Menus&lt;/f1&gt;, select from the &lt;f2&gt;Menu&lt;/f2&gt; drop-down list the menu that you want to customize.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160838Z">
+        <seg>In the section &lt;f0&gt;LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] Menus&lt;/f1&gt;, select from the &lt;f2&gt;Menu&lt;/f2&gt; drop-down list the menu that you want to customize.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,10 +1710,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Menus page of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160837Z">
+        <seg>The Menus page of the Customize dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scenario Manager provides “what if” analysis.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T143045Z">
         <seg>分析藍本提供「萬一」分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The commands available for the selected menu are shown in the central part of the dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160851Z">
+        <seg>The commands available for the selected menu are shown in the central part of the dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20150321T125210Z">
         <seg>本指引中所有用的插圖是從不同電腦與不同作業系統中擷取的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list includes all the main menus as well as submenus (menus that are contained under another menu).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T160838Z">
+        <seg>The list includes all the main menus as well as submenus (menus that are contained under another menu).</seg>
       </tuv>
     </tu>
     <tu>
