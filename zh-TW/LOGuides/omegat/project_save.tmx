@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to changing the menu font (described in Chapter 2, Setting up LibreOffice), you can add and rearrange categories on the menu bar, add commands to menus, and make other changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Administrator" changedate="20161206T132806Z">
+        <seg>除改變選單字型(在第二章中設定 LibreOffice)，你可以在選單列、新增指令選單新增及重指定目錄及做其他改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, we request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20160708T054256Z">
